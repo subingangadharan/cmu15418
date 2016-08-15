@@ -1,0 +1,7 @@
+{"time": 0, "work": "cmd=418wisdom;x=1", "resp": "OMG, 418 is so gr8!"}
+{"time": 1000, "work": "cmd=tellmenow;x=4249", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 2000, "work": "cmd=countprimes;n=1000011", "resp": "78499"}
+{"time": 3000, "work": "cmd=compareprimes;n1=624059;n2=791933;n3=773594;n4=859536", "resp": "There are more primes in first range."}
+{"time": 4000, "work": "cmd=tellmenow;x=7788", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 5000, "work": "cmd=projectidea;x=75796", "resp": "Parallelize an algorithm you are working on for research."}
+{"time": 6000, "work": "cmd=lastrequest", "resp": "ack" }

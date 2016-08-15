@@ -1,0 +1,220 @@
+{"time": 0, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 1500, "work": "cmd=compareprimes;n1=750002;n2=750004;n3=750001;n4=750003", "resp": "There are more primes in second range."}
+{"time": 2500, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 2501, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 2502, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 2503, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 2504, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 3400, "work": "cmd=mostviewed;start=2013-1-2;end=2013-3-21", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 4200, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 4201, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 4202, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 4203, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 4204, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 4900, "work": "cmd=compareprimes;n1=750001;n2=750003;n3=750003;n4=750004", "resp": "There are more primes in second range."}
+{"time": 5500, "work": "cmd=countprimes;n=981950", "resp": "77206"}
+{"time": 6000, "work": "cmd=compareprimes;n1=750004;n2=750005;n3=750001;n4=750004", "resp": "There are more primes in second range."}
+{"time": 6500, "work": "cmd=compareprimes;n1=750002;n2=750004;n3=750000;n4=750002", "resp": "There are more primes in second range."}
+{"time": 7000, "work": "cmd=mostviewed;start=2013-1-6;end=2013-3-30", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 7500, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 7501, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 7502, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 7503, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 7504, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 8000, "work": "cmd=compareprimes;n1=750001;n2=750004;n3=750000;n4=750003", "resp": "There are more primes in second range."}
+{"time": 8500, "work": "cmd=mostviewed;start=2013-1-3;end=2013-3-27", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 9000, "work": "cmd=mostviewed;start=2013-1-1;end=2013-3-20", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 9500, "work": "cmd=compareprimes;n1=750001;n2=750001;n3=750001;n4=750005", "resp": "There are more primes in second range."}
+{"time": 10000, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 10001, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 10002, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 10003, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 10004, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 10500, "work": "cmd=countprimes;n=993509", "resp": "78029"}
+{"time": 11000, "work": "cmd=compareprimes;n1=750000;n2=750002;n3=750001;n4=750003", "resp": "There are more primes in second range."}
+{"time": 11500, "work": "cmd=compareprimes;n1=750000;n2=750003;n3=750003;n4=750004", "resp": "There are more primes in second range."}
+{"time": 12000, "work": "cmd=compareprimes;n1=750003;n2=750005;n3=750003;n4=750003", "resp": "There are more primes in second range."}
+{"time": 12500, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 12501, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 12502, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 12503, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 12504, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 13000, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 13001, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 13002, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 13003, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 13004, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 13500, "work": "cmd=countprimes;n=915130", "resp": "72376"}
+{"time": 14000, "work": "cmd=countprimes;n=837878", "resp": "66734"}
+{"time": 14500, "work": "cmd=418wisdom;x=3", "resp": "Flatter your TAs with compliments"}
+{"time": 15000, "work": "cmd=mostviewed;start=2013-1-3;end=2013-3-14", "resp": "lecture/basicarch -- 1894 views"}
+{"time": 15500, "work": "cmd=mostviewed;start=2013-1-6;end=2013-3-29", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 16000, "work": "cmd=compareprimes;n1=750005;n2=750005;n3=750002;n4=750003", "resp": "There are more primes in second range."}
+{"time": 16500, "work": "cmd=mostviewed;start=2013-1-2;end=2013-3-27", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 17000, "work": "cmd=compareprimes;n1=750003;n2=750005;n3=750003;n4=750005", "resp": "There are more primes in second range."}
+{"time": 17500, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 17501, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 17502, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 17503, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 17504, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 18000, "work": "cmd=mostviewed;start=2013-1-6;end=2013-3-29", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 18500, "work": "cmd=mostviewed;start=2013-1-1;end=2013-3-23", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 19000, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 19001, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 19002, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 19003, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 19004, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 19500, "work": "cmd=mostviewed;start=2013-1-6;end=2013-3-19", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 20000, "work": "cmd=mostviewed;start=2013-1-1;end=2013-3-15", "resp": "lecture/basicarch -- 1897 views"}
+{"time": 20500, "work": "cmd=mostviewed;start=2013-1-2;end=2013-3-27", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 21000, "work": "cmd=418wisdom;x=0", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 21500, "work": "cmd=mostviewed;start=2013-1-1;end=2013-3-22", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 22000, "work": "cmd=compareprimes;n1=750003;n2=750004;n3=750000;n4=750003", "resp": "There are more primes in second range."}
+{"time": 22500, "work": "cmd=mostviewed;start=2013-1-4;end=2013-3-20", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 23000, "work": "cmd=countprimes;n=996104", "resp": "78213"}
+{"time": 23500, "work": "cmd=418wisdom;x=0", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 24000, "work": "cmd=compareprimes;n1=750000;n2=750001;n3=750001;n4=750004", "resp": "There are more primes in second range."}
+{"time": 24500, "work": "cmd=compareprimes;n1=750000;n2=750002;n3=750000;n4=750001", "resp": "There are more primes in second range."}
+{"time": 25000, "work": "cmd=countprimes;n=929385", "resp": "73426"}
+{"time": 25500, "work": "cmd=countprimes;n=836063", "resp": "66607"}
+{"time": 26000, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 26001, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 26002, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 26003, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 26004, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 26500, "work": "cmd=418wisdom;x=0", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 27000, "work": "cmd=compareprimes;n1=750001;n2=750002;n3=750004;n4=750005", "resp": "There are more primes in second range."}
+{"time": 27500, "work": "cmd=compareprimes;n1=750001;n2=750004;n3=750000;n4=750005", "resp": "There are more primes in second range."}
+{"time": 28000, "work": "cmd=mostviewed;start=2013-1-6;end=2013-3-21", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 28500, "work": "cmd=countprimes;n=919358", "resp": "72691"}
+{"time": 29000, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 29001, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 29002, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 29003, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 29004, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 29500, "work": "cmd=418wisdom;x=2", "resp": "You are going to do a great project"}
+{"time": 30000, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 30001, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 30002, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 30003, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 30004, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 30500, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 30501, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 30502, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 30503, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 30504, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 31000, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 31001, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 31002, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 31003, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 31004, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 31500, "work": "cmd=countprimes;n=871430", "resp": "69195"}
+{"time": 32000, "work": "cmd=compareprimes;n1=750001;n2=750003;n3=750000;n4=750004", "resp": "There are more primes in second range."}
+{"time": 32500, "work": "cmd=countprimes;n=809139", "resp": "64612"}
+{"time": 33000, "work": "cmd=countprimes;n=848026", "resp": "67475"}
+{"time": 33500, "work": "cmd=compareprimes;n1=750001;n2=750002;n3=750002;n4=750005", "resp": "There are more primes in second range."}
+{"time": 34000, "work": "cmd=mostviewed;start=2013-1-4;end=2013-3-26", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 34500, "work": "cmd=countprimes;n=882884", "resp": "70036"}
+{"time": 35000, "work": "cmd=mostviewed;start=2013-1-1;end=2013-3-14", "resp": "lecture/basicarch -- 1894 views"}
+{"time": 35500, "work": "cmd=countprimes;n=847883", "resp": "67463"}
+{"time": 36000, "work": "cmd=mostviewed;start=2013-1-3;end=2013-3-28", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 36500, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 36501, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 36502, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 36503, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 36504, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 37000, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 37001, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 37002, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 37003, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 37004, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 37500, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 37501, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 37502, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 37503, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 37504, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 38000, "work": "cmd=mostviewed;start=2013-1-3;end=2013-3-24", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 38500, "work": "cmd=418wisdom;x=2", "resp": "You are going to do a great project"}
+{"time": 39000, "work": "cmd=countprimes;n=831537", "resp": "66272"}
+{"time": 39500, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 39501, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 39502, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 39503, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 39504, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 40000, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 40001, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 40002, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 40003, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 40004, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 40500, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 40501, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 40502, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 40503, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 40504, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 41000, "work": "cmd=mostviewed;start=2013-1-6;end=2013-3-23", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 41500, "work": "cmd=countprimes;n=893378", "resp": "70803"}
+{"time": 42000, "work": "cmd=compareprimes;n1=750004;n2=750005;n3=750001;n4=750005", "resp": "There are more primes in second range."}
+{"time": 42500, "work": "cmd=mostviewed;start=2013-1-1;end=2013-3-25", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 43000, "work": "cmd=compareprimes;n1=750002;n2=750004;n3=750001;n4=750001", "resp": "There are more primes in second range."}
+{"time": 43500, "work": "cmd=mostviewed;start=2013-1-1;end=2013-3-27", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 44000, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 44001, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 44002, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 44003, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 44004, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 44500, "work": "cmd=418wisdom;x=0", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 45000, "work": "cmd=mostviewed;start=2013-1-6;end=2013-3-20", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 45500, "work": "cmd=compareprimes;n1=750000;n2=750005;n3=750000;n4=750002", "resp": "There are more primes in second range."}
+{"time": 46000, "work": "cmd=countprimes;n=890596", "resp": "70591"}
+{"time": 46500, "work": "cmd=mostviewed;start=2013-1-6;end=2013-3-18", "resp": "lecture/basicarch -- 1912 views"}
+{"time": 47000, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 47001, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 47002, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 47003, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 47004, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 47500, "work": "cmd=mostviewed;start=2013-1-3;end=2013-3-28", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 48000, "work": "cmd=countprimes;n=803714", "resp": "64221"}
+{"time": 48500, "work": "cmd=418wisdom;x=3", "resp": "Flatter your TAs with compliments"}
+{"time": 49000, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 49001, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 49002, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 49003, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 49004, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 49500, "work": "cmd=compareprimes;n1=750005;n2=750005;n3=750000;n4=750004", "resp": "There are more primes in second range."}
+{"time": 50000, "work": "cmd=mostviewed;start=2013-1-4;end=2013-3-26", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 50500, "work": "cmd=compareprimes;n1=750002;n2=750003;n3=750001;n4=750003", "resp": "There are more primes in second range."}
+{"time": 51000, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 51001, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 51002, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 51003, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 51004, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 51500, "work": "cmd=418wisdom;x=0", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 52000, "work": "cmd=countprimes;n=957925", "resp": "75466"}
+{"time": 52500, "work": "cmd=mostviewed;start=2013-1-3;end=2013-3-24", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 53000, "work": "cmd=418wisdom;x=0", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 53500, "work": "cmd=compareprimes;n1=750001;n2=750002;n3=750001;n4=750003", "resp": "There are more primes in second range."}
+{"time": 54000, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 54001, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 54002, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 54003, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 54004, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 54500, "work": "cmd=countprimes;n=809651", "resp": "64655"}
+{"time": 55000, "work": "cmd=418wisdom;x=2", "resp": "You are going to do a great project"}
+{"time": 55500, "work": "cmd=418wisdom;x=2", "resp": "You are going to do a great project"}
+{"time": 56000, "work": "cmd=countprimes;n=882944", "resp": "70040"}
+{"time": 56500, "work": "cmd=418wisdom;x=4", "resp": "Bring out all the stops in assignment 4."}
+{"time": 57000, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 57001, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 57002, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 57003, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 57004, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 57500, "work": "cmd=compareprimes;n1=750002;n2=750005;n3=750002;n4=750004", "resp": "There are more primes in second range."}
+{"time": 58000, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 58001, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 58002, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 58003, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 58004, "work": "cmd=countprimes;n=1000000", "resp": "78498"}
+{"time": 58500, "work": "cmd=countprimes;n=946950", "resp": "74694"}
+{"time": 59000, "work": "cmd=compareprimes;n1=750003;n2=750005;n3=750002;n4=750005", "resp": "There are more primes in second range."}
+{"time": 59500, "work": "cmd=mostviewed;start=2013-1-1;end=2013-3-12", "resp": "lecture/basicarch -- 1892 views"}
+{"time": 60000, "work": "cmd=lastrequest", "resp": "ack"}

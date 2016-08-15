@@ -1,0 +1,10 @@
+prefix=/afs/cs/academic/class/15418-s13/public
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libglog
+Description: Google Log (glog) C++ logging framework
+Version: 0.3.3
+Libs: -L${libdir} -lglog
+Cflags: -I${includedir}

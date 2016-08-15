@@ -1,0 +1,51 @@
+{"time": 0, "work": "cmd=mostviewed;start=2013-02-13;end=2013-03-23", "resp": "lecture/cachecoherence1 -- 856 views"}
+{"time": 500, "work": "cmd=mostviewed;start=2013-01-20;end=2013-02-20", "resp": "lecture/gpuarch -- 1045 views"}
+{"time": 1000, "work": "cmd=mostviewed;start=2013-02-01;end=2013-02-14", "resp": "lecture/gpuarch -- 677 views"}
+{"time": 1100, "work": "cmd=418wisdom;x=12", "resp": "OMG, 418 is so gr8!"}
+{"time": 1200, "work": "cmd=418wisdom;x=67", "resp": "Write a great lecture comment on your favorite idea in the class"}
+{"time": 2000, "work": "cmd=mostviewed;start=2013-02-07;end=2013-03-23", "resp": "lecture/cachecoherence1 -- 856 views"}
+{"time": 2100, "work": "cmd=418wisdom;x=96", "resp": "You will PWN your classmates in the parallelism competition"}
+{"time": 2150, "work": "cmd=countprimes;n=76231", "resp": "7501"}
+{"time": 2200, "work": "cmd=countprimes;n=76565", "resp": "7532"}
+{"time": 2250, "work": "cmd=countprimes;n=72234", "resp": "7150"}
+{"time": 3000, "work": "cmd=mostviewed;start=2013-01-18;end=2013-03-18", "resp": "lecture/basicarch -- 1565 views"}
+{"time": 3100, "work": "cmd=418wisdom;x=25", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 3150, "work": "cmd=countprimes;n=63431", "resp": "6357"}
+{"time": 3200, "work": "cmd=countprimes;n=78451", "resp": "7698"}
+{"time": 3250, "work": "cmd=countprimes;n=62231", "resp": "6255"}
+{"time": 4000, "work": "cmd=mostviewed;start=2013-01-16;end=2013-03-27", "resp": "lecture/basicarch -- 1831 views"}
+{"time": 4100, "work": "cmd=418wisdom;x=1001", "resp": "You will perform amazingly on exam 2"}
+{"time": 4150, "work": "cmd=countprimes;n=54321", "resp": "5525"}
+{"time": 4200, "work": "cmd=countprimes;n=43423", "resp": "4527"}
+{"time": 4250, "work": "cmd=countprimes;n=80000", "resp": "7837"}
+{"time": 5000, "work": "cmd=mostviewed;start=2013-02-23;end=2013-03-18", "resp": "lecture/cachecoherence1 -- 584 views"}
+{"time": 5100, "work": "cmd=418wisdom;x=200", "resp": "OMG, 418 is so gr8!"}
+{"time": 5150, "work": "cmd=countprimes;n=70000", "resp": "6935"}
+{"time": 5200, "work": "cmd=countprimes;n=71000", "resp": "7033"}
+{"time": 5250, "work": "cmd=countprimes;n=72000", "resp": "7128"}
+{"time": 6000, "work": "cmd=mostviewed;start=2013-01-08;end=2013-03-24", "resp": "lecture/basicarch -- 1914 views"}
+{"time": 6100, "work": "cmd=418wisdom;x=201", "resp": "OMG, 418 is so gr8!"}
+{"time": 6150, "work": "cmd=countprimes;n=73000", "resp": "7218"}
+{"time": 6200, "work": "cmd=countprimes;n=70002", "resp": "6936"}
+{"time": 6250, "work": "cmd=countprimes;n=78999", "resp": "7746"}
+{"time": 7000, "work": "cmd=mostviewed;start=2013-01-13;end=2013-03-03", "resp": "lecture/basicarch -- 1667 views"}
+{"time": 7100, "work": "cmd=418wisdom;x=9", "resp": "Flatter your TAs with compliments"}
+{"time": 7150, "work": "cmd=countprimes;n=79238", "resp": "7765"}
+{"time": 7200, "work": "cmd=countprimes;n=67222", "resp": "6699"}
+{"time": 7250, "work": "cmd=countprimes;n=58000", "resp": "5873"}
+{"time": 8000, "work": "cmd=mostviewed;start=2013-02-07;end=2013-03-25", "resp": "lecture/cachecoherence1 -- 856 views"}
+{"time": 8100, "work": "cmd=418wisdom;x=123", "resp": "Bring out all the stops in assignment 4."}
+{"time": 8150, "work": "cmd=countprimes;n=71202", "resp": "7049"}
+{"time": 8200, "work": "cmd=countprimes;n=99999", "resp": "9592"}
+{"time": 8250, "work": "cmd=countprimes;n=54000", "resp": "5500"}
+{"time": 9000, "work": "cmd=mostviewed;start=2013-02-10;end=2013-03-15", "resp": "lecture/cachecoherence1 -- 845 views"}
+{"time": 9100, "work": "cmd=418wisdom;x=2001", "resp": "Do as best as you can and just have fun!"}
+{"time": 9150, "work": "cmd=countprimes;n=50000", "resp": "5133"}
+{"time": 9200, "work": "cmd=countprimes;n=84980", "resp": "8276"}
+{"time": 9250, "work": "cmd=countprimes;n=67890", "resp": "6761"}
+{"time": 10000, "work": "cmd=mostviewed;start=2013-01-31;end=2013-03-23", "resp": "lecture/gpuarch -- 1079 views"}
+{"time": 10100, "work": "cmd=418wisdom;x=10", "resp": "Do a great project, and it all works out in the end"}
+{"time": 10150, "work": "cmd=countprimes;n=32043", "resp": "3436"}
+{"time": 10000, "work": "cmd=countprimes;n=89001", "resp": "8619"}
+{"time": 10250, "work": "cmd=countprimes;n=79122", "resp": "7753"}
+{"time": 10500, "work": "cmd=lastrequest", "resp": "ack" }

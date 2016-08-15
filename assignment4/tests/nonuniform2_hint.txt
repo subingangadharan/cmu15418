@@ -1,0 +1,41 @@
+{"time": 0, "work": "cmd=projectidea;x=84443", "resp": "Implement a parallelizing compiler."}
+{"time": 2000, "work": "cmd=projectidea;x=75796", "resp": "Parallelize an algorithm you are working on for research."}
+{"time": 3923, "work": "cmd=projectidea;x=42057", "resp": "Measure the energy consumption of a device when running an interesting workload"}
+{"time": 5772, "work": "cmd=projectidea;x=25891", "resp": "Investigate scale-out parallelism using Amazon web services"}
+{"time": 7551, "work": "cmd=projectidea;x=51127", "resp": "Investigate scale-out parallelism using Amazon web services"}
+{"time": 9262, "work": "cmd=projectidea;x=40493", "resp": "There are also great projects on parallelizing graphics, comptuer vision, or machine learning."}
+{"time": 10907, "work": "cmd=projectidea;x=78380", "resp": "Implement a cache simulator that supports invalidation-based coherence."}
+{"time": 12489, "work": "cmd=projectidea;x=30331", "resp": "Play around with interesting hardware, like FPGAs, Raspberry PIs, Tegra K1, or Oculus Rift"}
+{"time": 14010, "work": "cmd=projectidea;x=47660", "resp": "Parallelize an algorithm you are interested in on Latedays."}
+{"time": 15473, "work": "cmd=projectidea;x=58338", "resp": "Parallelize an algorithm you are interested in on Latedays."}
+{"time": 16880, "work": "cmd=projectidea;x=90812", "resp": "Measure the energy consumption of a device when running an interesting workload"}
+{"time": 18232, "work": "cmd=projectidea;x=50469", "resp": "Consider large-scale graph algorithms"}
+{"time": 19534, "work": "cmd=projectidea;x=28184", "resp": "Play around with interesting hardware, like FPGAs, Raspberry PIs, Tegra K1, or Oculus Rift"}
+{"time": 20785, "work": "cmd=projectidea;x=75581", "resp": "Measure the energy consumption of a device when running an interesting workload"}
+{"time": 21988, "work": "cmd=projectidea;x=61837", "resp": "Computer vision is ripe for optimization these days"}
+{"time": 23145, "work": "cmd=projectidea;x=25050", "resp": "Measure the energy consumption of a device when running an interesting workload"}
+{"time": 24258, "work": "cmd=projectidea;x=90975", "resp": "Parallelize an algorithm you are interested in on Latedays."}
+{"time": 25328, "work": "cmd=projectidea;x=98279", "resp": "Investigate scale-out parallelism using Amazon web services"}
+{"time": 26357, "work": "cmd=projectidea;x=81022", "resp": "There are also great projects on parallelizing graphics, comptuer vision, or machine learning."}
+{"time": 27347, "work": "cmd=projectidea;x=90217", "resp": "Check out last year's parallelism computation page for more ideas"}
+{"time": 28298, "work": "cmd=projectidea;x=31015", "resp": "Implement a parallelizing compiler."}
+{"time": 29214, "work": "cmd=projectidea;x=72983", "resp": "Consider large-scale graph algorithms"}
+{"time": 30094, "work": "cmd=projectidea;x=89884", "resp": "Implement a cache simulator that supports invalidation-based coherence."}
+{"time": 30944, "work": "cmd=projectidea;x=68399", "resp": "Implement a parallelizing compiler."}
+{"time": 31794, "work": "cmd=projectidea;x=47214", "resp": "Play around with interesting hardware, like FPGAs, Raspberry PIs, Tegra K1, or Oculus Rift"}
+{"time": 32644, "work": "cmd=projectidea;x=10070", "resp": "Check out last year's parallelism computation page for more ideas"}
+{"time": 33494, "work": "cmd=projectidea;x=43417", "resp": "Implement a parallelizing compiler."}
+{"time": 34344, "work": "cmd=projectidea;x=61089", "resp": "Implement a parallelizing compiler."}
+{"time": 35194, "work": "cmd=projectidea;x=91302", "resp": "Consider large-scale graph algorithms"}
+{"time": 36044, "work": "cmd=projectidea;x=96661", "resp": "Use a modern parallel programming framework that we didn't teach in class."}
+{"time": 36894, "work": "cmd=projectidea;x=47701", "resp": "Use a modern parallel programming framework that we didn't teach in class."}
+{"time": 37744, "work": "cmd=projectidea;x=86531", "resp": "Measure the energy consumption of a device when running an interesting workload"}
+{"time": 38594, "work": "cmd=projectidea;x=26049", "resp": "Play around with interesting hardware, like FPGAs, Raspberry PIs, Tegra K1, or Oculus Rift"}
+{"time": 39444, "work": "cmd=projectidea;x=80503", "resp": "There are also great projects on parallelizing graphics, comptuer vision, or machine learning."}
+{"time": 40294, "work": "cmd=projectidea;x=54870", "resp": "Investigate scale-out parallelism using Amazon web services"}
+{"time": 41144, "work": "cmd=projectidea;x=1404", "resp": "Computer vision is ripe for optimization these days"}
+{"time": 41994, "work": "cmd=projectidea;x=71971", "resp": "Computer vision is ripe for optimization these days"}
+{"time": 42844, "work": "cmd=projectidea;x=39882", "resp": "Implement a cache simulator that supports invalidation-based coherence."}
+{"time": 43694, "work": "cmd=projectidea;x=82485", "resp": "Use a modern parallel programming framework that we didn't teach in class."}
+{"time": 44544, "work": "cmd=projectidea;x=66815", "resp": "Play around with interesting hardware, like FPGAs, Raspberry PIs, Tegra K1, or Oculus Rift"}
+{"time": 45044, "work": "cmd=lastrequest", "resp": "ack" }

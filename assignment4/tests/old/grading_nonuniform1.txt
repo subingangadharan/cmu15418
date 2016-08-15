@@ -1,0 +1,81 @@
+{"time": 2500, "work": "cmd=418wisdom;x=84443", "resp": "Come to lecture, there might be donuts!"}
+{"time": 5000, "work": "cmd=418wisdom;x=75796", "resp": "Flatter your TAs with compliments"}
+{"time": 7200, "work": "cmd=418wisdom;x=42057", "resp": "Worse is better. Keep it simple..."}
+{"time": 9400, "work": "cmd=418wisdom;x=25891", "resp": "OMG, 418 is so gr8!"}
+{"time": 11600, "work": "cmd=418wisdom;x=51127", "resp": "Flatter your TAs with compliments"}
+{"time": 13500, "work": "cmd=418wisdom;x=40493", "resp": "Come to lecture, there might be donuts!"}
+{"time": 15400, "work": "cmd=418wisdom;x=78380", "resp": "Write a great lecture comment on your favorite idea in the class"}
+{"time": 17300, "work": "cmd=418wisdom;x=30331", "resp": "Do a great project, and it all works out in the end"}
+{"time": 18900, "work": "cmd=418wisdom;x=47660", "resp": "You will perform amazingly on exam 2"}
+{"time": 20500, "work": "cmd=418wisdom;x=58338", "resp": "You will perform amazingly on exam 2"}
+{"time": 22100, "work": "cmd=418wisdom;x=90812", "resp": "Worse is better. Keep it simple..."}
+{"time": 23700, "work": "cmd=418wisdom;x=50469", "resp": "Be careful not to optimize prematurely"}
+{"time": 25000, "work": "cmd=418wisdom;x=28184", "resp": "You are going to do a great project"}
+{"time": 26300, "work": "cmd=418wisdom;x=75581", "resp": "Exams are all just fun and games"}
+{"time": 27600, "work": "cmd=418wisdom;x=61837", "resp": "Worse is better. Keep it simple..."}
+{"time": 28900, "work": "cmd=418wisdom;x=25050", "resp": "Bring out all the stops in assignment 4."}
+{"time": 29900, "work": "cmd=418wisdom;x=90975", "resp": "Write a great lecture comment on your favorite idea in the class"}
+{"time": 30900, "work": "cmd=418wisdom;x=98279", "resp": "You will perform amazingly on exam 2"}
+{"time": 31900, "work": "cmd=418wisdom;x=81022", "resp": "Laugh at Kayvon's jokes"}
+{"time": 32900, "work": "cmd=418wisdom;x=90217", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 33900, "work": "cmd=418wisdom;x=31015", "resp": "Flatter your TAs with compliments"}
+{"time": 34600, "work": "cmd=418wisdom;x=72983", "resp": "Bring out all the stops in assignment 4."}
+{"time": 35300, "work": "cmd=418wisdom;x=89884", "resp": "OMG, 418 is so gr8!"}
+{"time": 36000, "work": "cmd=418wisdom;x=68399", "resp": "You will perform amazingly on exam 2"}
+{"time": 36700, "work": "cmd=418wisdom;x=47214", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 37400, "work": "cmd=418wisdom;x=10070", "resp": "Bring out all the stops in assignment 4."}
+{"time": 38100, "work": "cmd=418wisdom;x=43417", "resp": "Come to lecture, there might be donuts!"}
+{"time": 38800, "work": "cmd=418wisdom;x=61089", "resp": "Worse is better. Keep it simple..."}
+{"time": 39500, "work": "cmd=418wisdom;x=91302", "resp": "Flatter your TAs with compliments"}
+{"time": 39900, "work": "cmd=418wisdom;x=96661", "resp": "You are going to do a great project"}
+{"time": 40300, "work": "cmd=418wisdom;x=47701", "resp": "You will PWN your classmates in the parallelism competition"}
+{"time": 40700, "work": "cmd=418wisdom;x=86531", "resp": "Do a great project, and it all works out in the end"}
+{"time": 41100, "work": "cmd=418wisdom;x=26049", "resp": "Do a great project, and it all works out in the end"}
+{"time": 41500, "work": "cmd=418wisdom;x=80503", "resp": "OMG, 418 is so gr8!"}
+{"time": 41900, "work": "cmd=418wisdom;x=54870", "resp": "Worse is better. Keep it simple..."}
+{"time": 42300, "work": "cmd=418wisdom;x=1404", "resp": "You will perform amazingly on exam 2"}
+{"time": 42700, "work": "cmd=418wisdom;x=71971", "resp": "Come to lecture, there might be donuts!"}
+{"time": 43100, "work": "cmd=418wisdom;x=39882", "resp": "Flatter your TAs with compliments"}
+{"time": 43500, "work": "cmd=418wisdom;x=82485", "resp": "Come to lecture, there might be donuts!"}
+{"time": 43900, "work": "cmd=418wisdom;x=66815", "resp": "Laugh at Kayvon's jokes"}
+{"time": 44300, "work": "cmd=418wisdom;x=114", "resp": "Bring out all the stops in assignment 4."}
+{"time": 44700, "work": "cmd=418wisdom;x=49358", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 44950, "work": "cmd=418wisdom;x=86761", "resp": "Do a great project, and it all works out in the end"}
+{"time": 45200, "work": "cmd=418wisdom;x=24391", "resp": "Do a great project, and it all works out in the end"}
+{"time": 45450, "work": "cmd=418wisdom;x=32520", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 45700, "work": "cmd=418wisdom;x=87047", "resp": "You will perform amazingly on exam 2"}
+{"time": 45950, "work": "cmd=418wisdom;x=19106", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 46200, "work": "cmd=418wisdom;x=56751", "resp": "Do a great project, and it all works out in the end"}
+{"time": 46450, "work": "cmd=418wisdom;x=23861", "resp": "Do a great project, and it all works out in the end"}
+{"time": 46700, "work": "cmd=418wisdom;x=96754", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 46950, "work": "cmd=418wisdom;x=80318", "resp": "Worse is better. Keep it simple..."}
+{"time": 47300, "work": "cmd=418wisdom;x=44797", "resp": "Do a great project, and it all works out in the end"}
+{"time": 47750, "work": "cmd=418wisdom;x=8044", "resp": "Exams are all just fun and games"}
+{"time": 48300, "work": "cmd=418wisdom;x=32005", "resp": "Flatter your TAs with compliments"}
+{"time": 48950, "work": "cmd=418wisdom;x=50794", "resp": "OMG, 418 is so gr8!"}
+{"time": 49700, "work": "cmd=418wisdom;x=93284", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 50550, "work": "cmd=418wisdom;x=10905", "resp": "You will perform amazingly on exam 2"}
+{"time": 51500, "work": "cmd=418wisdom;x=55127", "resp": "Be careful not to optimize prematurely"}
+{"time": 52550, "work": "cmd=418wisdom;x=70656", "resp": "Write a great lecture comment on your favorite idea in the class"}
+{"time": 53700, "work": "cmd=418wisdom;x=54744", "resp": "Laugh at Kayvon's jokes"}
+{"time": 54950, "work": "cmd=418wisdom;x=81447", "resp": "Do as best as you can and just have fun!"}
+{"time": 56300, "work": "cmd=418wisdom;x=54028", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 57750, "work": "cmd=418wisdom;x=96384", "resp": "Bring out all the stops in assignment 4."}
+{"time": 59300, "work": "cmd=418wisdom;x=60319", "resp": "Worse is better. Keep it simple..."}
+{"time": 60950, "work": "cmd=418wisdom;x=58762", "resp": "Flatter your TAs with compliments"}
+{"time": 62700, "work": "cmd=418wisdom;x=44499", "resp": "Worse is better. Keep it simple..."}
+{"time": 64550, "work": "cmd=418wisdom;x=59629", "resp": "Do a great project, and it all works out in the end"}
+{"time": 66500, "work": "cmd=418wisdom;x=38490", "resp": "Worse is better. Keep it simple..."}
+{"time": 68550, "work": "cmd=418wisdom;x=57565", "resp": "Be careful not to optimize prematurely"}
+{"time": 70700, "work": "cmd=418wisdom;x=29033", "resp": "Flatter your TAs with compliments"}
+{"time": 72950, "work": "cmd=418wisdom;x=18939", "resp": "You are going to do a great project"}
+{"time": 75300, "work": "cmd=418wisdom;x=18673", "resp": "You will PWN your classmates in the parallelism competition"}
+{"time": 77750, "work": "cmd=418wisdom;x=61277", "resp": "Do a great project, and it all works out in the end"}
+{"time": 80250, "work": "cmd=418wisdom;x=65666", "resp": "OMG, 418 is so gr8!"}
+{"time": 82750, "work": "cmd=418wisdom;x=47653", "resp": "You will PWN your classmates in the parallelism competition"}
+{"time": 85250, "work": "cmd=418wisdom;x=8982", "resp": "You will perform amazingly on exam 2"}
+{"time": 87750, "work": "cmd=418wisdom;x=75761", "resp": "You are going to do a great project"}
+{"time": 90250, "work": "cmd=418wisdom;x=87677", "resp": "Do as best as you can and just have fun!"}
+{"time": 92750, "work": "cmd=418wisdom;x=92339", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 95250, "work": "cmd=418wisdom;x=84246", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 95750, "work": "cmd=lastrequest", "resp": "ack"}

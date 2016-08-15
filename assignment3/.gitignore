@@ -1,0 +1,4 @@
+*.swp
+paraGraph
+objs/
+jobs/*.job

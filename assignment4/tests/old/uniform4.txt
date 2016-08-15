@@ -1,0 +1,7 @@
+{"time": 0, "work": "cmd=compareprimes;n1=693049;n2=745409;n3=523000;n4=850000", "resp": "There are more primes in second range."}
+{"time": 2500, "work": "cmd=compareprimes;n1=893333;n2=989898;n3=423080;n4=1000000", "resp": "There are more primes in second range."}
+{"time": 5000, "work": "cmd=compareprimes;n1=800000;n2=900000;n3=459409;n4=1000000", "resp": "There are more primes in second range."}
+{"time": 7500, "work": "cmd=compareprimes;n1=700000;n2=1000000;n3=909232;n4=993222", "resp": "There are more primes in first range."}
+{"time": 10000, "work": "cmd=compareprimes;n1=23;n2=5600;n3=430323;n4=1520000", "resp": "There are more primes in second range."}
+{"time": 12500, "work": "cmd=compareprimes;n1=800000;n2=999929;n3=678912;n4=1000000", "resp": "There are more primes in second range."}
+{"time": 15000, "work": "cmd=lastrequest", "resp": "ack" }

@@ -1,0 +1,361 @@
+{"time": 0, "work": "cmd=418wisdom;x=84443", "resp": "Come to lecture, there might be donuts!"}
+{"time": 10, "work": "cmd=418wisdom;x=75796", "resp": "Flatter your TAs with compliments"}
+{"time": 20, "work": "cmd=418wisdom;x=42057", "resp": "Worse is better. Keep it simple..."}
+{"time": 30, "work": "cmd=418wisdom;x=25891", "resp": "OMG, 418 is so gr8!"}
+{"time": 40, "work": "cmd=418wisdom;x=51127", "resp": "Flatter your TAs with compliments"}
+{"time": 50, "work": "cmd=418wisdom;x=40493", "resp": "Come to lecture, there might be donuts!"}
+{"time": 60, "work": "cmd=418wisdom;x=78380", "resp": "Write a great lecture comment on your favorite idea in the class"}
+{"time": 70, "work": "cmd=418wisdom;x=30331", "resp": "Do a great project, and it all works out in the end"}
+{"time": 80, "work": "cmd=418wisdom;x=47660", "resp": "You will perform amazingly on exam 2"}
+{"time": 90, "work": "cmd=418wisdom;x=58338", "resp": "You will perform amazingly on exam 2"}
+{"time": 100, "work": "cmd=418wisdom;x=90812", "resp": "Worse is better. Keep it simple..."}
+{"time": 110, "work": "cmd=418wisdom;x=50469", "resp": "Be careful not to optimize prematurely"}
+{"time": 120, "work": "cmd=418wisdom;x=28184", "resp": "You are going to do a great project"}
+{"time": 130, "work": "cmd=418wisdom;x=75581", "resp": "Exams are all just fun and games"}
+{"time": 140, "work": "cmd=418wisdom;x=61837", "resp": "Worse is better. Keep it simple..."}
+{"time": 150, "work": "cmd=418wisdom;x=25050", "resp": "Bring out all the stops in assignment 4."}
+{"time": 160, "work": "cmd=418wisdom;x=90975", "resp": "Write a great lecture comment on your favorite idea in the class"}
+{"time": 170, "work": "cmd=418wisdom;x=98279", "resp": "You will perform amazingly on exam 2"}
+{"time": 180, "work": "cmd=418wisdom;x=81022", "resp": "Laugh at Kayvon's jokes"}
+{"time": 190, "work": "cmd=418wisdom;x=90217", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 200, "work": "cmd=418wisdom;x=31015", "resp": "Flatter your TAs with compliments"}
+{"time": 210, "work": "cmd=418wisdom;x=72983", "resp": "Bring out all the stops in assignment 4."}
+{"time": 220, "work": "cmd=418wisdom;x=89884", "resp": "OMG, 418 is so gr8!"}
+{"time": 230, "work": "cmd=418wisdom;x=68399", "resp": "You will perform amazingly on exam 2"}
+{"time": 240, "work": "cmd=tellmenow;x=4249", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 242, "work": "cmd=tellmenow;x=906", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 244, "work": "cmd=tellmenow;x=3907", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 246, "work": "cmd=tellmenow;x=5498", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 248, "work": "cmd=tellmenow;x=8218", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 250, "work": "cmd=tellmenow;x=8700", "resp": "We recommend getting full credit on grading_wisdom.txt first"}
+{"time": 252, "work": "cmd=tellmenow;x=4293", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 254, "work": "cmd=tellmenow;x=7788", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 256, "work": "cmd=tellmenow;x=2344", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 258, "work": "cmd=tellmenow;x=7246", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 260, "work": "cmd=tellmenow;x=4938", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 262, "work": "cmd=tellmenow;x=126", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 2764, "work": "cmd=418wisdom;x=71971", "resp": "Come to lecture, there might be donuts!"}
+{"time": 2774, "work": "cmd=418wisdom;x=39882", "resp": "Flatter your TAs with compliments"}
+{"time": 2784, "work": "cmd=418wisdom;x=82485", "resp": "Come to lecture, there might be donuts!"}
+{"time": 2794, "work": "cmd=418wisdom;x=66815", "resp": "Laugh at Kayvon's jokes"}
+{"time": 2804, "work": "cmd=418wisdom;x=114", "resp": "Bring out all the stops in assignment 4."}
+{"time": 2814, "work": "cmd=418wisdom;x=49358", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 2824, "work": "cmd=418wisdom;x=86761", "resp": "Do a great project, and it all works out in the end"}
+{"time": 2834, "work": "cmd=418wisdom;x=24391", "resp": "Do a great project, and it all works out in the end"}
+{"time": 2844, "work": "cmd=418wisdom;x=32520", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 2854, "work": "cmd=418wisdom;x=87047", "resp": "You will perform amazingly on exam 2"}
+{"time": 2864, "work": "cmd=418wisdom;x=19106", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 2874, "work": "cmd=418wisdom;x=56751", "resp": "Do a great project, and it all works out in the end"}
+{"time": 2884, "work": "cmd=418wisdom;x=23861", "resp": "Do a great project, and it all works out in the end"}
+{"time": 2894, "work": "cmd=418wisdom;x=96754", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 2904, "work": "cmd=418wisdom;x=80318", "resp": "Worse is better. Keep it simple..."}
+{"time": 2914, "work": "cmd=418wisdom;x=44797", "resp": "Do a great project, and it all works out in the end"}
+{"time": 2924, "work": "cmd=418wisdom;x=8044", "resp": "Exams are all just fun and games"}
+{"time": 2934, "work": "cmd=418wisdom;x=32005", "resp": "Flatter your TAs with compliments"}
+{"time": 2944, "work": "cmd=418wisdom;x=50794", "resp": "OMG, 418 is so gr8!"}
+{"time": 2954, "work": "cmd=418wisdom;x=93284", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 2964, "work": "cmd=418wisdom;x=10905", "resp": "You will perform amazingly on exam 2"}
+{"time": 2974, "work": "cmd=418wisdom;x=55127", "resp": "Be careful not to optimize prematurely"}
+{"time": 2984, "work": "cmd=418wisdom;x=70656", "resp": "Write a great lecture comment on your favorite idea in the class"}
+{"time": 2994, "work": "cmd=418wisdom;x=54744", "resp": "Laugh at Kayvon's jokes"}
+{"time": 3004, "work": "cmd=tellmenow;x=7331", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 3006, "work": "cmd=tellmenow;x=4863", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 3008, "work": "cmd=tellmenow;x=8675", "resp": "Figure out a way to understand the workload characteristics in each trace."}
+{"time": 3010, "work": "cmd=tellmenow;x=5429", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 3012, "work": "cmd=tellmenow;x=5289", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 3014, "work": "cmd=tellmenow;x=4005", "resp": "Figure out a way to understand the workload characteristics in each trace."}
+{"time": 3016, "work": "cmd=tellmenow;x=5367", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 3018, "work": "cmd=tellmenow;x=3464", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 3020, "work": "cmd=tellmenow;x=5181", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 3022, "work": "cmd=tellmenow;x=2613", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 3024, "work": "cmd=tellmenow;x=1704", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 3026, "work": "cmd=tellmenow;x=1680", "resp": "We recommend getting full credit on grading_wisdom.txt first"}
+{"time": 5528, "work": "cmd=418wisdom;x=61277", "resp": "Do a great project, and it all works out in the end"}
+{"time": 5538, "work": "cmd=418wisdom;x=65666", "resp": "OMG, 418 is so gr8!"}
+{"time": 5548, "work": "cmd=418wisdom;x=47653", "resp": "You will PWN your classmates in the parallelism competition"}
+{"time": 5558, "work": "cmd=418wisdom;x=8982", "resp": "You will perform amazingly on exam 2"}
+{"time": 5568, "work": "cmd=418wisdom;x=75761", "resp": "You are going to do a great project"}
+{"time": 5578, "work": "cmd=418wisdom;x=87677", "resp": "Do as best as you can and just have fun!"}
+{"time": 5588, "work": "cmd=418wisdom;x=92339", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 5598, "work": "cmd=418wisdom;x=84246", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 5608, "work": "cmd=418wisdom;x=89818", "resp": "Laugh at Kayvon's jokes"}
+{"time": 5618, "work": "cmd=418wisdom;x=92309", "resp": "You will PWN your classmates in the parallelism competition"}
+{"time": 5628, "work": "cmd=418wisdom;x=54060", "resp": "Be careful not to optimize prematurely"}
+{"time": 5638, "work": "cmd=418wisdom;x=39129", "resp": "Worse is better. Keep it simple..."}
+{"time": 5648, "work": "cmd=418wisdom;x=70529", "resp": "Come to lecture, there might be donuts!"}
+{"time": 5658, "work": "cmd=418wisdom;x=27563", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 5668, "work": "cmd=418wisdom;x=81163", "resp": "You will perform amazingly on exam 2"}
+{"time": 5678, "work": "cmd=418wisdom;x=84949", "resp": "Come to lecture, there might be donuts!"}
+{"time": 5688, "work": "cmd=418wisdom;x=89504", "resp": "You will perform amazingly on exam 2"}
+{"time": 5698, "work": "cmd=418wisdom;x=58980", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 5708, "work": "cmd=418wisdom;x=94977", "resp": "Flatter your TAs with compliments"}
+{"time": 5718, "work": "cmd=418wisdom;x=57970", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 5728, "work": "cmd=418wisdom;x=45056", "resp": "Bring out all the stops in assignment 4."}
+{"time": 5738, "work": "cmd=418wisdom;x=66025", "resp": "Worse is better. Keep it simple..."}
+{"time": 5748, "work": "cmd=418wisdom;x=99626", "resp": "You are going to do a great project"}
+{"time": 5758, "work": "cmd=418wisdom;x=91695", "resp": "You will perform amazingly on exam 2"}
+{"time": 5768, "work": "cmd=tellmenow;x=7140", "resp": "We recommend getting full credit on grading_wisdom.txt first"}
+{"time": 5770, "work": "cmd=tellmenow;x=741", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 5772, "work": "cmd=tellmenow;x=5515", "resp": "Figure out a way to understand the workload characteristics in each trace."}
+{"time": 5774, "work": "cmd=tellmenow;x=4378", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 5776, "work": "cmd=tellmenow;x=5671", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 5778, "work": "cmd=tellmenow;x=7606", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 5780, "work": "cmd=tellmenow;x=2187", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 5782, "work": "cmd=tellmenow;x=6584", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 5784, "work": "cmd=tellmenow;x=1054", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 5786, "work": "cmd=tellmenow;x=1984", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 5788, "work": "cmd=tellmenow;x=7152", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 5790, "work": "cmd=tellmenow;x=2993", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 8292, "work": "cmd=418wisdom;x=81592", "resp": "You will PWN your classmates in the parallelism competition"}
+{"time": 8302, "work": "cmd=418wisdom;x=10060", "resp": "OMG, 418 is so gr8!"}
+{"time": 8312, "work": "cmd=418wisdom;x=14635", "resp": "You will perform amazingly on exam 2"}
+{"time": 8322, "work": "cmd=418wisdom;x=69767", "resp": "You will perform amazingly on exam 2"}
+{"time": 8332, "work": "cmd=418wisdom;x=4523", "resp": "Exams are all just fun and games"}
+{"time": 8342, "work": "cmd=418wisdom;x=57387", "resp": "You will PWN your classmates in the parallelism competition"}
+{"time": 8352, "work": "cmd=418wisdom;x=91002", "resp": "Do a great project, and it all works out in the end"}
+{"time": 8362, "work": "cmd=418wisdom;x=53420", "resp": "You will PWN your classmates in the parallelism competition"}
+{"time": 8372, "work": "cmd=418wisdom;x=68059", "resp": "OMG, 418 is so gr8!"}
+{"time": 8382, "work": "cmd=418wisdom;x=2669", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 8392, "work": "cmd=418wisdom;x=63500", "resp": "Laugh at Kayvon's jokes"}
+{"time": 8402, "work": "cmd=418wisdom;x=60634", "resp": "You are going to do a great project"}
+{"time": 8412, "work": "cmd=418wisdom;x=57595", "resp": "You will perform amazingly on exam 2"}
+{"time": 8422, "work": "cmd=418wisdom;x=39121", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 8432, "work": "cmd=418wisdom;x=37014", "resp": "Laugh at Kayvon's jokes"}
+{"time": 8442, "work": "cmd=418wisdom;x=98052", "resp": "Come to lecture, there might be donuts!"}
+{"time": 8452, "work": "cmd=418wisdom;x=3639", "resp": "Do a great project, and it all works out in the end"}
+{"time": 8462, "work": "cmd=418wisdom;x=2163", "resp": "Come to lecture, there might be donuts!"}
+{"time": 8472, "work": "cmd=418wisdom;x=96104", "resp": "Flatter your TAs with compliments"}
+{"time": 8482, "work": "cmd=418wisdom;x=18497", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 8492, "work": "cmd=418wisdom;x=12389", "resp": "Laugh at Kayvon's jokes"}
+{"time": 8502, "work": "cmd=418wisdom;x=21057", "resp": "Come to lecture, there might be donuts!"}
+{"time": 8512, "work": "cmd=418wisdom;x=80075", "resp": "Write a great lecture comment on your favorite idea in the class"}
+{"time": 8522, "work": "cmd=418wisdom;x=93697", "resp": "Laugh at Kayvon's jokes"}
+{"time": 8532, "work": "cmd=tellmenow;x=205", "resp": "Figure out a way to understand the workload characteristics in each trace."}
+{"time": 8534, "work": "cmd=tellmenow;x=3830", "resp": "We recommend getting full credit on grading_wisdom.txt first"}
+{"time": 8536, "work": "cmd=tellmenow;x=913", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 8538, "work": "cmd=tellmenow;x=2339", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 8540, "work": "cmd=tellmenow;x=1987", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 8542, "work": "cmd=tellmenow;x=5822", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 8544, "work": "cmd=tellmenow;x=3152", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 8546, "work": "cmd=tellmenow;x=1623", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 8548, "work": "cmd=tellmenow;x=4533", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 8550, "work": "cmd=tellmenow;x=354", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 8552, "work": "cmd=tellmenow;x=908", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 8554, "work": "cmd=tellmenow;x=8895", "resp": "Figure out a way to understand the workload characteristics in each trace."}
+{"time": 11056, "work": "cmd=418wisdom;x=19935", "resp": "Write a great lecture comment on your favorite idea in the class"}
+{"time": 11066, "work": "cmd=418wisdom;x=35855", "resp": "Do as best as you can and just have fun!"}
+{"time": 11076, "work": "cmd=418wisdom;x=73160", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 11086, "work": "cmd=418wisdom;x=83833", "resp": "You will perform amazingly on exam 2"}
+{"time": 11096, "work": "cmd=418wisdom;x=91849", "resp": "Do a great project, and it all works out in the end"}
+{"time": 11106, "work": "cmd=418wisdom;x=16942", "resp": "Bring out all the stops in assignment 4."}
+{"time": 11116, "work": "cmd=418wisdom;x=67264", "resp": "Flatter your TAs with compliments"}
+{"time": 11126, "work": "cmd=418wisdom;x=96655", "resp": "Write a great lecture comment on your favorite idea in the class"}
+{"time": 11136, "work": "cmd=418wisdom;x=5805", "resp": "You will perform amazingly on exam 2"}
+{"time": 11146, "work": "cmd=418wisdom;x=67620", "resp": "You are going to do a great project"}
+{"time": 11156, "work": "cmd=418wisdom;x=84543", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 11166, "work": "cmd=418wisdom;x=34231", "resp": "Be careful not to optimize prematurely"}
+{"time": 11176, "work": "cmd=418wisdom;x=25068", "resp": "Flatter your TAs with compliments"}
+{"time": 11186, "work": "cmd=418wisdom;x=59679", "resp": "Flatter your TAs with compliments"}
+{"time": 11196, "work": "cmd=418wisdom;x=44231", "resp": "You will PWN your classmates in the parallelism competition"}
+{"time": 11206, "work": "cmd=418wisdom;x=17482", "resp": "You are going to do a great project"}
+{"time": 11216, "work": "cmd=418wisdom;x=47163", "resp": "Bring out all the stops in assignment 4."}
+{"time": 11226, "work": "cmd=418wisdom;x=40990", "resp": "Come to lecture, there might be donuts!"}
+{"time": 11236, "work": "cmd=418wisdom;x=56911", "resp": "OMG, 418 is so gr8!"}
+{"time": 11246, "work": "cmd=418wisdom;x=50860", "resp": "Come to lecture, there might be donuts!"}
+{"time": 11256, "work": "cmd=418wisdom;x=31144", "resp": "Do as best as you can and just have fun!"}
+{"time": 11266, "work": "cmd=418wisdom;x=35715", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 11276, "work": "cmd=418wisdom;x=83766", "resp": "You will perform amazingly on exam 2"}
+{"time": 11286, "work": "cmd=418wisdom;x=25093", "resp": "You will perform amazingly on exam 2"}
+{"time": 11296, "work": "cmd=tellmenow;x=5045", "resp": "Figure out a way to understand the workload characteristics in each trace."}
+{"time": 11298, "work": "cmd=tellmenow;x=111", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 11300, "work": "cmd=tellmenow;x=6674", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 11302, "work": "cmd=tellmenow;x=3023", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 11304, "work": "cmd=tellmenow;x=411", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 11306, "work": "cmd=tellmenow;x=2528", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 11308, "work": "cmd=tellmenow;x=2161", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 11310, "work": "cmd=tellmenow;x=8579", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 11312, "work": "cmd=tellmenow;x=3170", "resp": "We recommend getting full credit on grading_wisdom.txt first"}
+{"time": 11314, "work": "cmd=tellmenow;x=2591", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 11316, "work": "cmd=tellmenow;x=3233", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 11318, "work": "cmd=tellmenow;x=8523", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 13820, "work": "cmd=418wisdom;x=63375", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 13830, "work": "cmd=418wisdom;x=62108", "resp": "Worse is better. Keep it simple..."}
+{"time": 13840, "work": "cmd=418wisdom;x=71562", "resp": "Write a great lecture comment on your favorite idea in the class"}
+{"time": 13850, "work": "cmd=418wisdom;x=38802", "resp": "Exams are all just fun and games"}
+{"time": 13860, "work": "cmd=418wisdom;x=41442", "resp": "Flatter your TAs with compliments"}
+{"time": 13870, "work": "cmd=418wisdom;x=65083", "resp": "OMG, 418 is so gr8!"}
+{"time": 13880, "work": "cmd=418wisdom;x=152", "resp": "You will perform amazingly on exam 2"}
+{"time": 13890, "work": "cmd=418wisdom;x=19231", "resp": "You are going to do a great project"}
+{"time": 13900, "work": "cmd=418wisdom;x=33440", "resp": "Flatter your TAs with compliments"}
+{"time": 13910, "work": "cmd=418wisdom;x=23941", "resp": "You will perform amazingly on exam 2"}
+{"time": 13920, "work": "cmd=418wisdom;x=63740", "resp": "Do a great project, and it all works out in the end"}
+{"time": 13930, "work": "cmd=418wisdom;x=37865", "resp": "Do a great project, and it all works out in the end"}
+{"time": 13940, "work": "cmd=418wisdom;x=87543", "resp": "Write a great lecture comment on your favorite idea in the class"}
+{"time": 13950, "work": "cmd=418wisdom;x=56815", "resp": "Worse is better. Keep it simple..."}
+{"time": 13960, "work": "cmd=418wisdom;x=41441", "resp": "Laugh at Kayvon's jokes"}
+{"time": 13970, "work": "cmd=418wisdom;x=40227", "resp": "You will PWN your classmates in the parallelism competition"}
+{"time": 13980, "work": "cmd=418wisdom;x=70183", "resp": "Bring out all the stops in assignment 4."}
+{"time": 13990, "work": "cmd=418wisdom;x=41823", "resp": "You will perform amazingly on exam 2"}
+{"time": 14000, "work": "cmd=418wisdom;x=66220", "resp": "Laugh at Kayvon's jokes"}
+{"time": 14010, "work": "cmd=418wisdom;x=4678", "resp": "Write a great lecture comment on your favorite idea in the class"}
+{"time": 14020, "work": "cmd=418wisdom;x=44535", "resp": "You are going to do a great project"}
+{"time": 14030, "work": "cmd=418wisdom;x=25922", "resp": "Laugh at Kayvon's jokes"}
+{"time": 14040, "work": "cmd=418wisdom;x=15768", "resp": "Come to lecture, there might be donuts!"}
+{"time": 14050, "work": "cmd=418wisdom;x=52757", "resp": "You will perform amazingly on exam 2"}
+{"time": 14060, "work": "cmd=tellmenow;x=4385", "resp": "Figure out a way to understand the workload characteristics in each trace."}
+{"time": 14062, "work": "cmd=tellmenow;x=5053", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 14064, "work": "cmd=tellmenow;x=6800", "resp": "We recommend getting full credit on grading_wisdom.txt first"}
+{"time": 14066, "work": "cmd=tellmenow;x=7955", "resp": "Figure out a way to understand the workload characteristics in each trace."}
+{"time": 14068, "work": "cmd=tellmenow;x=4451", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 14070, "work": "cmd=tellmenow;x=2808", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 14072, "work": "cmd=tellmenow;x=4202", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 14074, "work": "cmd=tellmenow;x=7282", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 14076, "work": "cmd=tellmenow;x=7876", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 14078, "work": "cmd=tellmenow;x=7312", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 14080, "work": "cmd=tellmenow;x=1692", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 14082, "work": "cmd=tellmenow;x=8995", "resp": "Figure out a way to understand the workload characteristics in each trace."}
+{"time": 16584, "work": "cmd=418wisdom;x=63309", "resp": "Do as best as you can and just have fun!"}
+{"time": 16594, "work": "cmd=418wisdom;x=8346", "resp": "Flatter your TAs with compliments"}
+{"time": 16604, "work": "cmd=418wisdom;x=72556", "resp": "You will PWN your classmates in the parallelism competition"}
+{"time": 16614, "work": "cmd=418wisdom;x=98683", "resp": "Bring out all the stops in assignment 4."}
+{"time": 16624, "work": "cmd=418wisdom;x=40182", "resp": "Do as best as you can and just have fun!"}
+{"time": 16634, "work": "cmd=418wisdom;x=67852", "resp": "You will PWN your classmates in the parallelism competition"}
+{"time": 16644, "work": "cmd=418wisdom;x=31618", "resp": "Laugh at Kayvon's jokes"}
+{"time": 16654, "work": "cmd=418wisdom;x=21352", "resp": "Do as best as you can and just have fun!"}
+{"time": 16664, "work": "cmd=418wisdom;x=71733", "resp": "OMG, 418 is so gr8!"}
+{"time": 16674, "work": "cmd=418wisdom;x=235", "resp": "Flatter your TAs with compliments"}
+{"time": 16684, "work": "cmd=418wisdom;x=82273", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 16694, "work": "cmd=418wisdom;x=52835", "resp": "Flatter your TAs with compliments"}
+{"time": 16704, "work": "cmd=418wisdom;x=9778", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 16714, "work": "cmd=418wisdom;x=11890", "resp": "You are going to do a great project"}
+{"time": 16724, "work": "cmd=418wisdom;x=64927", "resp": "You will perform amazingly on exam 2"}
+{"time": 16734, "work": "cmd=418wisdom;x=87366", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 16744, "work": "cmd=418wisdom;x=27998", "resp": "Exams are all just fun and games"}
+{"time": 16754, "work": "cmd=418wisdom;x=97852", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 16764, "work": "cmd=418wisdom;x=10018", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 16774, "work": "cmd=418wisdom;x=85394", "resp": "Do as best as you can and just have fun!"}
+{"time": 16784, "work": "cmd=418wisdom;x=39670", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 16794, "work": "cmd=418wisdom;x=8134", "resp": "Do as best as you can and just have fun!"}
+{"time": 16804, "work": "cmd=418wisdom;x=27471", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 16814, "work": "cmd=418wisdom;x=45298", "resp": "Exams are all just fun and games"}
+{"time": 16824, "work": "cmd=tellmenow;x=7131", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 16826, "work": "cmd=tellmenow;x=7753", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 16828, "work": "cmd=tellmenow;x=1200", "resp": "We recommend getting full credit on grading_wisdom.txt first"}
+{"time": 16830, "work": "cmd=tellmenow;x=4688", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 16832, "work": "cmd=tellmenow;x=5857", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 16834, "work": "cmd=tellmenow;x=3123", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 16836, "work": "cmd=tellmenow;x=7847", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 16838, "work": "cmd=tellmenow;x=2505", "resp": "Figure out a way to understand the workload characteristics in each trace."}
+{"time": 16840, "work": "cmd=tellmenow;x=167", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 16842, "work": "cmd=tellmenow;x=366", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 16844, "work": "cmd=tellmenow;x=6129", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 16846, "work": "cmd=tellmenow;x=5025", "resp": "Figure out a way to understand the workload characteristics in each trace."}
+{"time": 19348, "work": "cmd=418wisdom;x=94651", "resp": "Write a great lecture comment on your favorite idea in the class"}
+{"time": 19358, "work": "cmd=418wisdom;x=93844", "resp": "OMG, 418 is so gr8!"}
+{"time": 19368, "work": "cmd=418wisdom;x=90986", "resp": "Exams are all just fun and games"}
+{"time": 19378, "work": "cmd=418wisdom;x=4200", "resp": "You will perform amazingly on exam 2"}
+{"time": 19388, "work": "cmd=418wisdom;x=74914", "resp": "Laugh at Kayvon's jokes"}
+{"time": 19398, "work": "cmd=418wisdom;x=70133", "resp": "You are going to do a great project"}
+{"time": 19408, "work": "cmd=418wisdom;x=65536", "resp": "Worse is better. Keep it simple..."}
+{"time": 19418, "work": "cmd=418wisdom;x=71236", "resp": "You will PWN your classmates in the parallelism competition"}
+{"time": 19428, "work": "cmd=418wisdom;x=90271", "resp": "Be careful not to optimize prematurely"}
+{"time": 19438, "work": "cmd=418wisdom;x=64014", "resp": "Flatter your TAs with compliments"}
+{"time": 19448, "work": "cmd=418wisdom;x=37245", "resp": "Be careful not to optimize prematurely"}
+{"time": 19458, "work": "cmd=418wisdom;x=53793", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 19468, "work": "cmd=418wisdom;x=20784", "resp": "You are going to do a great project"}
+{"time": 19478, "work": "cmd=418wisdom;x=58713", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 19488, "work": "cmd=418wisdom;x=889", "resp": "Do a great project, and it all works out in the end"}
+{"time": 19498, "work": "cmd=418wisdom;x=15102", "resp": "Laugh at Kayvon's jokes"}
+{"time": 19508, "work": "cmd=418wisdom;x=33341", "resp": "Do a great project, and it all works out in the end"}
+{"time": 19518, "work": "cmd=418wisdom;x=78963", "resp": "OMG, 418 is so gr8!"}
+{"time": 19528, "work": "cmd=418wisdom;x=71850", "resp": "Worse is better. Keep it simple..."}
+{"time": 19538, "work": "cmd=418wisdom;x=33825", "resp": "Flatter your TAs with compliments"}
+{"time": 19548, "work": "cmd=418wisdom;x=62054", "resp": "Laugh at Kayvon's jokes"}
+{"time": 19558, "work": "cmd=418wisdom;x=4120", "resp": "Laugh at Kayvon's jokes"}
+{"time": 19568, "work": "cmd=418wisdom;x=16386", "resp": "OMG, 418 is so gr8!"}
+{"time": 19578, "work": "cmd=418wisdom;x=98192", "resp": "Do as best as you can and just have fun!"}
+{"time": 19588, "work": "cmd=tellmenow;x=2606", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 19590, "work": "cmd=tellmenow;x=3553", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 19592, "work": "cmd=tellmenow;x=4936", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 19594, "work": "cmd=tellmenow;x=2640", "resp": "We recommend getting full credit on grading_wisdom.txt first"}
+{"time": 19596, "work": "cmd=tellmenow;x=4303", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 19598, "work": "cmd=tellmenow;x=2157", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 19600, "work": "cmd=tellmenow;x=434", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 19602, "work": "cmd=tellmenow;x=1616", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 19604, "work": "cmd=tellmenow;x=4707", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 19606, "work": "cmd=tellmenow;x=637", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 19608, "work": "cmd=tellmenow;x=3628", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 19610, "work": "cmd=tellmenow;x=2957", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 22112, "work": "cmd=418wisdom;x=41472", "resp": "Be careful not to optimize prematurely"}
+{"time": 22122, "work": "cmd=418wisdom;x=9940", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 22132, "work": "cmd=418wisdom;x=90866", "resp": "You are going to do a great project"}
+{"time": 22142, "work": "cmd=418wisdom;x=47400", "resp": "Do a great project, and it all works out in the end"}
+{"time": 22152, "work": "cmd=418wisdom;x=84085", "resp": "Flatter your TAs with compliments"}
+{"time": 22162, "work": "cmd=418wisdom;x=97623", "resp": "Worse is better. Keep it simple..."}
+{"time": 22172, "work": "cmd=418wisdom;x=34365", "resp": "Do a great project, and it all works out in the end"}
+{"time": 22182, "work": "cmd=418wisdom;x=47909", "resp": "Do a great project, and it all works out in the end"}
+{"time": 22192, "work": "cmd=418wisdom;x=69960", "resp": "Flatter your TAs with compliments"}
+{"time": 22202, "work": "cmd=418wisdom;x=42653", "resp": "Write a great lecture comment on your favorite idea in the class"}
+{"time": 22212, "work": "cmd=418wisdom;x=30190", "resp": "You will PWN your classmates in the parallelism competition"}
+{"time": 22222, "work": "cmd=418wisdom;x=73475", "resp": "OMG, 418 is so gr8!"}
+{"time": 22232, "work": "cmd=418wisdom;x=89440", "resp": "You will PWN your classmates in the parallelism competition"}
+{"time": 22242, "work": "cmd=418wisdom;x=91969", "resp": "Laugh at Kayvon's jokes"}
+{"time": 22252, "work": "cmd=418wisdom;x=62674", "resp": "Laugh at Kayvon's jokes"}
+{"time": 22262, "work": "cmd=418wisdom;x=37557", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 22272, "work": "cmd=418wisdom;x=97457", "resp": "You are going to do a great project"}
+{"time": 22282, "work": "cmd=418wisdom;x=63888", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 22292, "work": "cmd=418wisdom;x=6583", "resp": "Laugh at Kayvon's jokes"}
+{"time": 22302, "work": "cmd=418wisdom;x=8467", "resp": "Exams are all just fun and games"}
+{"time": 22312, "work": "cmd=418wisdom;x=74987", "resp": "Be careful not to optimize prematurely"}
+{"time": 22322, "work": "cmd=418wisdom;x=6115", "resp": "Laugh at Kayvon's jokes"}
+{"time": 22332, "work": "cmd=418wisdom;x=785", "resp": "Do a great project, and it all works out in the end"}
+{"time": 22342, "work": "cmd=418wisdom;x=39381", "resp": "You are going to do a great project"}
+{"time": 22352, "work": "cmd=tellmenow;x=4671", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 22354, "work": "cmd=tellmenow;x=4037", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 22356, "work": "cmd=tellmenow;x=4398", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 22358, "work": "cmd=tellmenow;x=5264", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 22360, "work": "cmd=tellmenow;x=6114", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 22362, "work": "cmd=tellmenow;x=3807", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 22364, "work": "cmd=tellmenow;x=3315", "resp": "Figure out a way to understand the workload characteristics in each trace."}
+{"time": 22366, "work": "cmd=tellmenow;x=8897", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 22368, "work": "cmd=tellmenow;x=2348", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 22370, "work": "cmd=tellmenow;x=6994", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 22372, "work": "cmd=tellmenow;x=3881", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 22374, "work": "cmd=tellmenow;x=3227", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 24876, "work": "cmd=418wisdom;x=6385", "resp": "OMG, 418 is so gr8!"}
+{"time": 24886, "work": "cmd=418wisdom;x=86358", "resp": "OMG, 418 is so gr8!"}
+{"time": 24896, "work": "cmd=418wisdom;x=70201", "resp": "Do a great project, and it all works out in the end"}
+{"time": 24906, "work": "cmd=418wisdom;x=90301", "resp": "Exams are all just fun and games"}
+{"time": 24916, "work": "cmd=418wisdom;x=45161", "resp": "Laugh at Kayvon's jokes"}
+{"time": 24926, "work": "cmd=418wisdom;x=67692", "resp": "Laugh at Kayvon's jokes"}
+{"time": 24936, "work": "cmd=418wisdom;x=11891", "resp": "Laugh at Kayvon's jokes"}
+{"time": 24946, "work": "cmd=418wisdom;x=39795", "resp": "Do a great project, and it all works out in the end"}
+{"time": 24956, "work": "cmd=418wisdom;x=20723", "resp": "Laugh at Kayvon's jokes"}
+{"time": 24966, "work": "cmd=418wisdom;x=4210", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 24976, "work": "cmd=418wisdom;x=94797", "resp": "You will PWN your classmates in the parallelism competition"}
+{"time": 24986, "work": "cmd=418wisdom;x=21589", "resp": "You will perform amazingly on exam 2"}
+{"time": 24996, "work": "cmd=418wisdom;x=14635", "resp": "You will perform amazingly on exam 2"}
+{"time": 25006, "work": "cmd=418wisdom;x=19797", "resp": "Be careful not to optimize prematurely"}
+{"time": 25016, "work": "cmd=418wisdom;x=37803", "resp": "Exams are all just fun and games"}
+{"time": 25026, "work": "cmd=418wisdom;x=54639", "resp": "Write a great lecture comment on your favorite idea in the class"}
+{"time": 25036, "work": "cmd=418wisdom;x=15133", "resp": "Exams are all just fun and games"}
+{"time": 25046, "work": "cmd=418wisdom;x=98869", "resp": "You will perform amazingly on exam 2"}
+{"time": 25056, "work": "cmd=418wisdom;x=98299", "resp": "You are going to do a great project"}
+{"time": 25066, "work": "cmd=418wisdom;x=14840", "resp": "You will PWN your classmates in the parallelism competition"}
+{"time": 25076, "work": "cmd=418wisdom;x=40591", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 25086, "work": "cmd=418wisdom;x=67993", "resp": "Flatter your TAs with compliments"}
+{"time": 25096, "work": "cmd=418wisdom;x=87766", "resp": "OMG, 418 is so gr8!"}
+{"time": 25106, "work": "cmd=418wisdom;x=49541", "resp": "Come to lecture, there might be donuts!"}
+{"time": 25116, "work": "cmd=tellmenow;x=8254", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 25118, "work": "cmd=tellmenow;x=2902", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 25120, "work": "cmd=tellmenow;x=4486", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 25122, "work": "cmd=tellmenow;x=4488", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 25124, "work": "cmd=tellmenow;x=6031", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 25126, "work": "cmd=tellmenow;x=1818", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 25128, "work": "cmd=tellmenow;x=5488", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 25130, "work": "cmd=tellmenow;x=1969", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 25132, "work": "cmd=tellmenow;x=3062", "resp": "Yes, you can optimize for specific traces but you don't have to. A general schedule algorithm works."}
+{"time": 25134, "work": "cmd=tellmenow;x=8664", "resp": "There may be opportunities for caching in this assignment"}
+{"time": 25136, "work": "cmd=tellmenow;x=8091", "resp": "Re-watch the lecture on scaling a website"}
+{"time": 25138, "work": "cmd=tellmenow;x=7363", "resp": "The best performance may come from a particular mixture of jobs on a worker node."}
+{"time": 25638, "work": "cmd=lastrequest", "resp": "ack" }

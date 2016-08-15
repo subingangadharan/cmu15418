@@ -1,0 +1,16 @@
+#libevent pkg-config source file
+
+prefix=/afs/cs/academic/class/15418-s13/public
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libevent
+Description: libevent is an asynchronous notification event loop library
+Version: 2.0.21-stable
+Requires:
+Conflicts:
+Libs: -L${libdir} -levent
+Libs.private: -lrt 
+Cflags: -I${includedir}
+

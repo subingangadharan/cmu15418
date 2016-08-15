@@ -1,0 +1,18 @@
+#!/bin/sh
+
+#
+# Limit wall-clock time of job to 6 minutes to avoid hogging the
+# queue. A full-credit implementation of the assignment 4 server runs
+# every trace in no more than about 2 minutes, so there's likely not a
+# good reason to increase your walltime unless you wanted to run a
+# singled threaded server on a full trace just for correctness.
+#
+#PBS -lwalltime=0:6:00
+
+
+#
+# Submit the job.  No need to modify this.
+#
+
+cd $PBS_O_WORKDIR
+pbsdsh -u $PBS_O_WORKDIR/harness.sh $1 $2

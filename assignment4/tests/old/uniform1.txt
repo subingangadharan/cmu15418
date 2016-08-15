@@ -1,0 +1,22 @@
+{"time": 0, "work": "cmd=418wisdom;x=1", "resp": "OMG, 418 is so gr8!"}
+{"time": 500, "work": "cmd=countprimes;n=100012", "resp": "9593"}
+{"time": 1000, "work": "cmd=418wisdom;x=11", "resp": "If all else fails... buy Kayvon donuts"}
+{"time": 1500, "work": "cmd=countprimes;n=50453", "resp": "5176"}
+{"time": 2000, "work": "cmd=418wisdom;x=32", "resp": "Laugh at Kayvon's jokes"}
+{"time": 2500, "work": "cmd=countprimes;n=301231", "resp": "26099"}
+{"time": 3000, "work": "cmd=418wisdom;x=6", "resp": "OMG, 418 is so gr8!"}
+{"time": 3500, "work": "cmd=countprimes;n=410091", "resp": "34618"}
+{"time": 4000, "work": "cmd=418wisdom;x=99", "resp": "Do as best as you can and just have fun!"}
+{"time": 4500, "work": "cmd=countprimes;n=85111", "resp": "8289"}
+{"time": 5000, "work": "cmd=418wisdom;x=100", "resp": "Laugh at Kayvon's jokes"}
+{"time": 5500, "work": "cmd=countprimes;n=222235", "resp": "19797"}
+{"time": 6000, "work": "cmd=418wisdom;x=96", "resp": "You will PWN your classmates in the parallelism competition"}
+{"time": 6500, "work": "cmd=countprimes;n=123499", "resp": "11605"}
+{"time": 7000, "work": "cmd=418wisdom;x=30", "resp": "Ask questions. Ask questions. Ask questions"}
+{"time": 7500, "work": "cmd=countprimes;n=95011", "resp": "9159"}
+{"time": 8000, "work": "cmd=418wisdom;x=42", "resp": "Do as best as you can and just have fun!"}
+{"time": 8500, "work": "cmd=countprimes;n=453090", "resp": "37941"}
+{"time": 9000, "work": "cmd=418wisdom;x=101", "resp": "You will PWN your classmates in the parallelism competition"}
+{"time": 9500, "work": "cmd=countprimes;n=70055", "resp": "6941"}
+{"time": 10000, "work": "cmd=418wisdom;x=2", "resp": "You are going to do a great project"}
+{"time": 10500, "work": "cmd=lastrequest", "resp": "ack" }
